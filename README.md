@@ -1,14 +1,62 @@
-## Hi there 👋
+# 👋 Hi, I'm Yash Singh
 
-**yashsinghstack/yashsinghstack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Python Developer | AI/ML Enthusiast | Backend Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about building practical,
+intelligent, and real-world software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🚀 I enjoy turning ideas into projects and continuously improving my
+development skills.
+
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 Computer Science Engineering Student
+- 🐍 Python Developer
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- ⚙️ Interested in Backend Development
+- 📚 Currently improving my DSA & Software Development skills
+- 🚀 Building real-world projects
+- 🤝 Open to collaboration and interesting projects
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+🐍 Python • C • C++
+
+### Backend & Development
+⚡ Python Backend • REST APIs • Git • GitHub
+
+### AI / ML
+🤖 Artificial Intelligence • Machine Learning • Data Analysis
+
+### Tools
+💻 VS Code • Git • GitHub
+
+---
+
+## 🚀 Featured Projects
+
+
+🔹 ** projects coming soon...**
+
+---
+
+## 📈 My Goals
+
+- Build production-ready applications
+- Master Python & Backend Development
+- Explore AI/ML
+- Contribute to Open Source
+- Build impactful real-world projects
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to learning, collaborating and building something interesting.
+
+⭐ If you find my projects useful, consider giving them a star!
